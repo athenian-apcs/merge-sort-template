@@ -1,6 +1,6 @@
-# Week 4 Day 2: Recursion Applications
+# Week 4 Day 3: Merge Sort
 
-In class today, we'll look at a couple applications of recursion!
+In class today, we'll look at a final application of recursion: Merge Sort. 
 
 <br />
 
